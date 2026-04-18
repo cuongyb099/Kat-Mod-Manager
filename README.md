@@ -7,7 +7,7 @@
 ## 📂 Project Structure
 The tool is split into two main components to balance the UI experience with a high-performance engine:
 
-* **The Client (UI):** This is the user interface—the **"skin"** of the app. It handles everything you see on the screen and sends your commands to the engine.
+* **The Client (UI):** Built using **WPF (Windows Presentation Foundation)**. It's the "skin" of the app. I chose WPF because it's powerful, reliable for Windows desktop tools, and allows for a clean UI without the bloat of web-based frameworks.
 * **The DLL (KatDll):** This is the **"brain"**. It contains the core logic: communicating with the server, managing files, and the anti-reseller security system (licensing).
 
 ---
@@ -24,7 +24,7 @@ Because this project uses a **Native AOT** core, the build process requires two 
 
 ### 📋 Prerequisites
 Before you start, make sure you have the following installed:
-* **SDK:** .NET 10.0 SDK (Required for the latest AOT optimizations).
+* **Framework:** .NET 10.0 SDK & **WPF Workload** (included in .NET Desktop Development).
 * **IDE:** Visual Studio 2022 (v17.12+) or Visual Studio 2025.
 * **Workload:** `.NET Desktop Development` (Ensure you check the **C++ Build Tools** option, as it's required for Native AOT).
 
@@ -40,8 +40,8 @@ Before you start, make sure you have the following installed:
 1.  **Copy** the `KatDll.dll` you just built.
 2.  **Paste** it into the `KATTHEDEV` folder (where the `.csproj` file lives).
 3.  Open the solution in **Visual Studio**.
-4.  Build the **Mod Manager Client** project.
+4.  Build the **Mod Manager Client** (WPF Project).
 
 ---
 
-> **Note:** I sincerely apologize for the clunky two-step process—I was honestly just **too lazy** to merge everything into a single-click project build. Hope you don't mind!
+> **Note:** I sincerely apologize for the clunky two-step process—I was honestly just **too lazy** to merge everything into a single-click project build. Hope you don't mind! 

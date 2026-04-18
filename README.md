@@ -8,7 +8,7 @@
 The tool is split into two main components to balance the UI experience with a high-performance engine:
 
 * **The Client (UI):** Built using **WPF (Windows Presentation Foundation)**. It's the "skin" of the app. I chose WPF because it's powerful, reliable for Windows desktop tools, and allows for a clean UI without the bloat of web-based frameworks.
-* **The DLL (KatDll):** This is the **"brain"**. It contains the core logic: communicating with the server, managing files, and the anti-reseller security system (licensing).
+* **The DLL (KatDll):** This is the **"brain"**. It contains the core logic: communicating with the server, managing files.
 
 ---
 

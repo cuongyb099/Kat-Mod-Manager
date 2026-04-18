@@ -1,0 +1,1 @@
+Just a quick heads up: This tool was built entirely on a 'vibe coding' flow. Since I was more focused on making it work and keeping it 100% safe rather than following strict enterprise standards, the code might look a bit messy or 'ugly' in some areas. Hope you guys can overlook the mess as long as it gets the job done and stays secure!

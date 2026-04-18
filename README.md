@@ -19,28 +19,34 @@ But at the end of the day, I realized that **trust is more important than a piec
 
 ---
 
+## 🤖 Still Worried About Security? Let AI Decide!
+If you are still suspicious or paranoid about potential malware, **I encourage you to audit the code yourself.** If you don't know how to read code, you can simply **copy any file** (especially from the `KatDll` core) and **feed it to an AI** like **ChatGPT, Claude, or Gemini**. Ask it:
+
+> *"Is there any hidden malware, credential stealer, or data-exfiltration logic in this code?"*
+
+Let the AI be the neutral judge. I am confident in the safety of my work, and I want you to be too.
+
+---
+
 ## 🏗 How to Build (Step-by-Step)
 Because this project uses a **Native AOT** core, the build process requires two separate steps. Please follow this order carefully:
 
 ### 📋 Prerequisites
-Before you start, make sure you have the following installed:
-* **Framework:** .NET 10.0 SDK & **WPF Workload** (included in .NET Desktop Development).
+* **Framework:** .NET 10.0 SDK & **WPF Workload**.
 * **IDE:** Visual Studio 2022 (v17.12+) or Visual Studio 2025.
-* **Workload:** `.NET Desktop Development` (Ensure you check the **C++ Build Tools** option, as it's required for Native AOT).
+* **Workload:** `.NET Desktop Development` (Ensure you check the **C++ Build Tools** option).
 
 ### 🚀 The Double-Build Process
 
 #### **Step 1: Build the Core (KatDll)**
-1.  Navigate to the `KatDll` folder.
-2.  Run the `Build.bat` file.
-    * *This script handles the complex Native AOT compilation for you.*
-3.  Once finished, locate the newly built `KatDll.dll` in the output folder.
+1. Navigate to the `KatDll` folder.
+2. Run the `Build.bat` file.
+3. Once finished, locate the newly built `KatDll.dll` in the output folder.
 
 #### **Step 2: Link & Build the Client**
-1.  **Copy** the `KatDll.dll` you just built.
-2.  **Paste** it into the `KATTHEDEV` folder (where the `.csproj` file lives).
-3.  Open the solution in **Visual Studio**.
-4.  Build the **Mod Manager Client** (WPF Project).
+1. **Copy** the `KatDll.dll` you just built.
+2. **Paste** it into the `KATTHEDEV` folder (where the `.csproj` file lives).
+3. Open the solution in **Visual Studio** and build the project.
 
 ---
 

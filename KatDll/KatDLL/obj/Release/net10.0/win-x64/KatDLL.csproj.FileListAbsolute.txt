@@ -1,0 +1,11 @@
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\bin\Release\net10.0\win-x64\KatDLL.deps.json
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\bin\Release\net10.0\win-x64\KatDLL.dll
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\bin\Release\net10.0\win-x64\KatDLL.pdb
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\KatDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\KatDLL.AssemblyInfoInputs.cache
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\KatDLL.AssemblyInfo.cs
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\KatDLL.csproj.CoreCompileInputs.cache
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\KatDLL.dll
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\refint\KatDLL.dll
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\KatDLL.pdb
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Release\net10.0\win-x64\ref\KatDLL.dll

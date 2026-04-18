@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\longh\\Desktop\\New folder (3)\\Mod Manager Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658486B0-7AC0-22FF-8FEC-9EA8376E41D6}|KATTHEDEV\\KATTHEDEV.csproj|c:\\users\\longh\\desktop\\new folder (3)\\mod manager client\\katthedev\\katthedev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{658486B0-7AC0-22FF-8FEC-9EA8376E41D6}|KATTHEDEV\\KATTHEDEV.csproj|solutionrelative:katthedev\\katthedev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658486B0-7AC0-22FF-8FEC-9EA8376E41D6}|KATTHEDEV\\KATTHEDEV.csproj|c:\\users\\longh\\desktop\\new folder (3)\\mod manager client\\katthedev\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{658486B0-7AC0-22FF-8FEC-9EA8376E41D6}|KATTHEDEV\\KATTHEDEV.csproj|solutionrelative:katthedev\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KATTHEDEV",
+              "DocumentMoniker": "C:\\Users\\longh\\Desktop\\New folder (3)\\Mod Manager Client\\KATTHEDEV\\KATTHEDEV.csproj",
+              "RelativeDocumentMoniker": "KATTHEDEV\\KATTHEDEV.csproj",
+              "ToolTip": "C:\\Users\\longh\\Desktop\\New folder (3)\\Mod Manager Client\\KATTHEDEV\\KATTHEDEV.csproj",
+              "RelativeToolTip": "KATTHEDEV\\KATTHEDEV.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T22:48:40.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\longh\\Desktop\\New folder (3)\\Mod Manager Client\\KATTHEDEV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KATTHEDEV\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\longh\\Desktop\\New folder (3)\\Mod Manager Client\\KATTHEDEV\\MainWindow.xaml",
+              "RelativeToolTip": "KATTHEDEV\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T00:35:37.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

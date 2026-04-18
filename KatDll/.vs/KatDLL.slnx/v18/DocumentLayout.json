@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\longh\\Desktop\\KatDll\\KatDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2671EAF-3D52-1866-909F-539713D4CBF0}|KatDLL\\KatDLL.csproj|c:\\users\\longh\\desktop\\katdll\\katdll\\katdll\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2671EAF-3D52-1866-909F-539713D4CBF0}|KatDLL\\KatDLL.csproj|solutionrelative:katdll\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2671EAF-3D52-1866-909F-539713D4CBF0}|KatDLL\\KatDLL.csproj|c:\\users\\longh\\desktop\\katdll\\katdll\\katdll\\katdll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2671EAF-3D52-1866-909F-539713D4CBF0}|KatDLL\\KatDLL.csproj|solutionrelative:katdll\\katdll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KatDLL.csproj",
+              "DocumentMoniker": "C:\\Users\\longh\\Desktop\\KatDll\\KatDLL\\KatDLL\\KatDLL.csproj",
+              "RelativeDocumentMoniker": "KatDLL\\KatDLL.csproj",
+              "ToolTip": "C:\\Users\\longh\\Desktop\\KatDll\\KatDLL\\KatDLL\\KatDLL.csproj",
+              "RelativeToolTip": "KatDLL\\KatDLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T06:54:40.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\longh\\Desktop\\KatDll\\KatDLL\\KatDLL\\NativeMethods.cs",
+              "RelativeDocumentMoniker": "KatDLL\\NativeMethods.cs",
+              "ToolTip": "C:\\Users\\longh\\Desktop\\KatDll\\KatDLL\\KatDLL\\NativeMethods.cs",
+              "RelativeToolTip": "KatDLL\\NativeMethods.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:53:09.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

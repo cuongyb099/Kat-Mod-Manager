@@ -1,0 +1,11 @@
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\bin\Debug\net10.0\KatDLL.deps.json
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\bin\Debug\net10.0\KatDLL.dll
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\bin\Debug\net10.0\KatDLL.pdb
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\KatDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\KatDLL.AssemblyInfoInputs.cache
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\KatDLL.AssemblyInfo.cs
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\KatDLL.csproj.CoreCompileInputs.cache
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\KatDLL.dll
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\refint\KatDLL.dll
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\KatDLL.pdb
+C:\Users\longh\Desktop\KatDll\KatDLL\KatDLL\obj\Debug\net10.0\ref\KatDLL.dll
